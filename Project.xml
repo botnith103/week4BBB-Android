@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="FNF: DUSTTALE" file="FNF DUSTTALE" packageName="com.sawosirox.dustything" package="com.sawosirox.dustything" main="Main" version="2.0.0" company="sawosirox" />
+	<app title="FNF: baby brother" file="FNF baby brother" packageName="com.sawosirox.dustything" package="com.sawosirox.dustything" main="Main" version="2.0.0" company="sawosirox" />
 	
 	<haxedef name="LINC_LUA_RELATIVE_DYNAMIC_LIB"/> <!-- stable luas PUT AFTER FIRST LINE WITH APP NAME AND ETC -->
 
